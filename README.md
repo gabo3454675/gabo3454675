@@ -30,14 +30,6 @@ I'm a passionate Full Stack Developer from Caracas, Venezuela, dedicated to buil
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabo3454675&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Gabo's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabo3454675&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="180" />
-</p>
-
----
 
 ### 🛠️ Tech Stack
 
