@@ -9,18 +9,18 @@ I'm a passionate Full Stack Developer from Caracas, Venezuela, dedicated to buil
 
 ---
 
+
 ### 👨‍💻 About Me
 
 - 🌎 Based in **Caracas, Venezuela**.
+- 🎓 **Systems Engineering Student** at **Universidad Metropolitana (UNIMET)**.
 - 🚀 Currently building [**disis**](#), a multi-tenant billing and inventory system.
-- 🛠️ Managing [**SAC**](#), a specialized tax management system.
-- 📚 Engineering student focused on **Physics** and **Linear Algebra**.
-- 💡 **Goal:** Delivering high-impact software with scalable, maintainable code.
+- 🛠️ Project Lead & Developer [**SAC**](#), a specialized tax management system.
+- 🧪Strong background in **Physics** and **Linear Algebra** applied to software logic.
+- 💼 Working as a **Freelance Developer**, always open to new challenges!
 - 🤝 Always eager to collaborate and learn from the community!
-
----
-
-
+  
+    
 ### 🛠️ Tech Stack
 
 | Category    | Tools                                       |
@@ -47,6 +47,6 @@ I'm a passionate Full Stack Developer from Caracas, Venezuela, dedicated to buil
 <details>
   <summary>💡 Let's collaborate!</summary>
   <p>
-    I'm open to exciting projects, remote opportunities, and discussing ideas around JS, React, or backend systems. Don’t hesitate to reach out!
+   I'm open to exciting projects, remote opportunities, and discussing ideas around JavaScript, Python, or complex backend or frontend systems. Don’t hesitate to reach out!
   </p>
 </details>
