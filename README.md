@@ -20,16 +20,6 @@ I'm a passionate Full Stack Developer from Caracas, Venezuela, dedicated to buil
 
 ---
 
-### 🛠️ Tech Stack
-
-| Category   | Tools                                |
-| :---       | :---                                 |
-| **Frontend** | React, React Native, TypeScript, Vite |
-| **Backend**  | Node.js, Prisma, PostgreSQL           |
-| **Tools**    | Git, GitHub, Canvas, Gamma            |
-
----
-
 
 ### 🛠️ Tech Stack
 
